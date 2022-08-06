@@ -10,13 +10,13 @@ from telethon import TelegramClient, events, errors
 from telethon.tl.types import MessageMediaWebPage
 
 #***********************************************************************************#
-api_id = os.environ.get('API_ID')   # your telegram api id
-api_hash = os.environ.get('API_HASH')  # your telegram api hash
-bot_token = os.environ.get('BOT_TOKEN')  # your bot_token
-admin_id = os.environ.get('ADMIN_ID')  # your user id
+api_id = os.environ.get('8941261')   # your telegram api id
+api_hash = os.environ.get('89ebdbc6e7bf9195bde696b0e9b3c387')  # your telegram api hash
+bot_token = os.environ.get('5400483115:AAHKKepGtb7brAcxoSW_4QqmkjzeUKk3klg')  # your bot_token
+admin_id = os.environ.get('A2025727672')  # your user id
 save_path = 'downloads'  # Dont change this unless you know what you are doing
 upload_file_set = False  # set upload file to google drive
-drive_id = os.environ.get('DRIVE_ID')  # Folder ID of Teamdrive
+drive_id = os.environ.get('1xQkq7aInYSDzH3ejkgJ0MYHk-Je-bnP9')  # Folder ID of Teamdrive
 drive_name = 'GC'  # Dont change this unless you know what you are doing
 max_num = 10  # Simultaneous downloads
 # filter file name/File name filtering
