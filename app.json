@@ -2,7 +2,7 @@
   "name": "tg-chan-dl",
   "description": "This app does one little thing, and does it well.",
   "keywords": ["cyka", "bylat"],
-  "repository": "https://github.com/ssnjrthegr8/tegbzn.git",
+  "repository": "https://github.com/sridhar885/mytelegram-channel-dounloader-heroku.git",
   "stack": "container",
   "formation": {"worker": {"quantity": 1, "size": "free"}},
   "env": {
